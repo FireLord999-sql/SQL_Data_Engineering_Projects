@@ -1,0 +1,1 @@
+Describe job_postings_fact
